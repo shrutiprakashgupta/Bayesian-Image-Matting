@@ -15,3 +15,6 @@ While that extracted with the ground truth is:
 <img src="https://github.com/shrutipgupta/Image-Matting-with-Bayesian-Method/blob/main/Extracted_with_ground_truth.png">
 
 Note: In case the .ipynb file does not load, it can be downloaded and opened with Colab or Jupyter Notebook. 
+
+## Image Source
+More training images and trimaps can be found [here](http://www.alphamatting.com/datasets.php).
